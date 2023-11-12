@@ -1,6 +1,6 @@
 # SALV
 
-![confused-Garda](../SALV/my-app/assets/images/README.md%20images/one-officer.jpg)
+![confused-garda](../SALV/my-app/assets/images/README.md%20images/one-officer.jpg)
 
 A personal and public safety tool for police and people to prevent and prosecute dangerous criminal behavior.
 
