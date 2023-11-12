@@ -2,6 +2,7 @@
 
 ![confused-garda](../SALV/my-app/assets/images/README.md%20images/one-officer.jpg)
 
+
 A personal and public safety tool for police and people to prevent and prosecute dangerous criminal behavior.
 
 The Batman and The Batwoman probably already have a similar app on their Bat Phones. Alfred and Robin would have to get some access too, I guess. 
